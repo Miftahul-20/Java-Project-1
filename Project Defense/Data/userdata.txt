@@ -1,0 +1,11 @@
+===========================================================
+ Name: Ayshowrjo
+ Gender: Female
+ Address: Bashundhara R/A
+ Doctor Type: Eye Specialist
+ Medical History: None
+ Payment Method: Bkash
+ Phone: 01779815977
+ PIN: 1234
+ Consulting Fees: 900
+===========================================================
